@@ -1,0 +1,35 @@
+{
+    "title":"Amazon",
+    "description":"Amazon is a global e-commerce platform",
+    "url":"https://www.amazon.com",
+    "categories":
+    [
+        "e-commerce","online shopping"
+    ],
+    "tags":
+    [ 
+        "online shopping", "e-commerce platform"
+    ],
+    "rating":4.5,
+    "reviews":
+    {
+
+        "total":1000,
+        "positive":800,
+        "negative":200
+    },
+
+
+
+    "Button":
+    [
+        {
+            "text": "Shop Now",
+            "url": "https://www.amazon.com"
+        },
+        {
+            "text":"Shop Later"
+        }
+    ]
+
+}
